@@ -45,23 +45,23 @@
       </nav>
     </header>
 
-    <main role="main">
+
 
       <div id="Carousel" class="carousel slide" data-ride="carousel">
-       
+
         <div class="carousel-inner">
           <div class="carousel-item active">
-            
+
             <img src="imgs/sl_1.png" class= "img-fluid d-block">
 
           </div>
           <div class="carousel-item">
-            
+
             <img src="imgs/sl_2.png" class= "img-fluid d-block">
 
           </div>
           <div class="carousel-item">
-            
+
             <img src="imgs/sl_3.png" class= "img-fluid d-block">
 
           </div>
